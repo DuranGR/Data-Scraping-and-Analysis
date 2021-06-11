@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
+
 
 
 import requests
@@ -14,7 +14,7 @@ import re
 import plotly.graph_objects as go
 
 
-# In[14]:
+
 
 
 def plotar_notas_de_corte():
@@ -141,7 +141,7 @@ def plotar_notas_de_corte():
 plotar_notas_de_corte()
 
 
-# In[ ]:
+
 
 
 
